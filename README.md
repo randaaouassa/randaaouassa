@@ -1,44 +1,47 @@
 # Hi, I'm Randa
 
-**Software Engineer | Full-Stack & Backend | AI | Cloud**
+**Software Engineer | Mobile & Full-Stack Development | Backend | AI | Cloud**
 
-I build scalable, production-ready software across full-stack development, backend engineering, cloud infrastructure, and AI.
+I build production-ready software across mobile applications, full-stack development, backend engineering, cloud infrastructure, and AI.
 
-I enjoy turning complex problems into reliable, well-designed systems with a focus on clean architecture, performance, security, testing, and deployment.
+From native Android development with Kotlin and Java to cross-platform apps with Flutter, I enjoy turning complex problems into reliable, scalable products with clean architecture and thoughtful engineering.
 
-Currently building and shipping real-world software projects.
+Currently building and shipping real-world software products.
 
 ## Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript
+**Languages:** Python · Kotlin · Java · Dart · TypeScript · JavaScript · PHP
 
-**Frontend:** React
+**Mobile:** Android · Flutter · Cross-Platform Development
 
-**Backend:** FastAPI · REST APIs
+**Frontend:** React · Inertia.js
 
-**Database:** PostgreSQL · Redis
+**Backend:** FastAPI · Laravel · REST APIs
+
+**Database:** PostgreSQL · MySQL · Redis
 
 **Cloud & DevOps:** AWS · Docker · Kubernetes · GitHub Actions · CI/CD
 
-**AI:** LLMs · RAG · Generative AI · Agentic Systems
+**AI:** Deep Learning · Computer Vision · LLMs · RAG · Generative AI · Agentic Systems
 
 ## What I'm Building
 
-* Full-stack SaaS applications
-* AI-powered and agentic systems
-* Scalable backend services
-* Cloud-native applications
+- Full-stack SaaS applications
+- Mobile and cross-platform applications
+- AI-powered and agentic systems
+- Scalable backend services
+- Cloud-ready software products
 
 ## Engineering Focus
 
-* Clean Architecture
-* API Design
-* Distributed Systems
-* Database Design
-* Performance & Scalability
-* Testing & Reliability
-* Security
-* DevOps & Cloud Infrastructure
+- Clean Architecture & System Design
+- Mobile Application Development
+- API Design & Integration
+- Database Design
+- Performance & Scalability
+- Testing & Reliability
+- Security
+- DevOps & Cloud Infrastructure
 
 ## Connect
 
